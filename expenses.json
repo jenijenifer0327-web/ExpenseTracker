@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 150.0,
+        "category": "food",
+        "description": "lunch",
+        "date": "26-10-29"
+    },
+    {
+        "amount": 200.0,
+        "category": "travel",
+        "description": "bus ticket",
+        "date": "26-10-29"
+    },
+    {
+        "amount": 150.0,
+        "category": "trave",
+        "description": "bus ticket",
+        "date": "26-10-29"
+    }
+]
